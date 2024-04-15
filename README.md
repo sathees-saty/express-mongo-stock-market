@@ -65,4 +65,15 @@ http://localhost:3000/stocks
 <br>
 http://localhost:3000/watchlist
 <br>
+MongoDB
+<br>
+![image](https://github.com/sathees-saty/express-mongo-stock-market/assets/65384711/ccbb8271-e7b4-4779-baf9-9dd7fc0448a6)
+
+<br>
+Source code - VS
+<br>
+![image](https://github.com/sathees-saty/express-mongo-stock-market/assets/65384711/6f708e3a-41cf-4b1d-bd07-de3fb9949873)
+<br>
+![image](https://github.com/sathees-saty/express-mongo-stock-market/assets/65384711/b557e5c9-e01e-4761-a965-2583008440b6)
+
 </html>
